@@ -1,0 +1,7 @@
+ofxOsc
+ofxBonjourIp
+ofxBox2d
+ofxCenteredTrueTypeFont
+ofxNERDLab
+ofxObjective-C--Utility
+ofxVoiceSynthesizer
